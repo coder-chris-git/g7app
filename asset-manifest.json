@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/coder-chris-git/store-app.git/static/css/main.30d17a82.chunk.css",
+    "main.js": "/coder-chris-git/store-app.git/static/js/main.30c1b04e.chunk.js",
+    "main.js.map": "/coder-chris-git/store-app.git/static/js/main.30c1b04e.chunk.js.map",
+    "runtime-main.js": "/coder-chris-git/store-app.git/static/js/runtime-main.d1b814d0.js",
+    "runtime-main.js.map": "/coder-chris-git/store-app.git/static/js/runtime-main.d1b814d0.js.map",
+    "static/js/2.4ce73605.chunk.js": "/coder-chris-git/store-app.git/static/js/2.4ce73605.chunk.js",
+    "static/js/2.4ce73605.chunk.js.map": "/coder-chris-git/store-app.git/static/js/2.4ce73605.chunk.js.map",
+    "index.html": "/coder-chris-git/store-app.git/index.html",
+    "precache-manifest.2a531ae190b2c48687b6ebe30833134c.js": "/coder-chris-git/store-app.git/precache-manifest.2a531ae190b2c48687b6ebe30833134c.js",
+    "service-worker.js": "/coder-chris-git/store-app.git/service-worker.js",
+    "static/css/main.30d17a82.chunk.css.map": "/coder-chris-git/store-app.git/static/css/main.30d17a82.chunk.css.map",
+    "static/js/2.4ce73605.chunk.js.LICENSE.txt": "/coder-chris-git/store-app.git/static/js/2.4ce73605.chunk.js.LICENSE.txt",
+    "static/media/Video1.jpg": "/coder-chris-git/store-app.git/static/media/Video1.b0aed5a4.jpg",
+    "static/media/photosPic.jpeg": "/coder-chris-git/store-app.git/static/media/photosPic.d0616b2e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1b814d0.js",
+    "static/js/2.4ce73605.chunk.js",
+    "static/css/main.30d17a82.chunk.css",
+    "static/js/main.30c1b04e.chunk.js"
+  ]
+}
