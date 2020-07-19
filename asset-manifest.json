@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/coder-chris-git/g7app1.git/static/css/main.30d17a82.chunk.css",
-    "main.js": "/coder-chris-git/g7app1.git/static/js/main.30c1b04e.chunk.js",
-    "main.js.map": "/coder-chris-git/g7app1.git/static/js/main.30c1b04e.chunk.js.map",
+    "main.css": "/coder-chris-git/g7app1.git/static/css/main.2155f3e2.chunk.css",
+    "main.js": "/coder-chris-git/g7app1.git/static/js/main.81a28ddb.chunk.js",
+    "main.js.map": "/coder-chris-git/g7app1.git/static/js/main.81a28ddb.chunk.js.map",
     "runtime-main.js": "/coder-chris-git/g7app1.git/static/js/runtime-main.daa97ab9.js",
     "runtime-main.js.map": "/coder-chris-git/g7app1.git/static/js/runtime-main.daa97ab9.js.map",
-    "static/js/2.4ce73605.chunk.js": "/coder-chris-git/g7app1.git/static/js/2.4ce73605.chunk.js",
-    "static/js/2.4ce73605.chunk.js.map": "/coder-chris-git/g7app1.git/static/js/2.4ce73605.chunk.js.map",
+    "static/js/2.75d01b17.chunk.js": "/coder-chris-git/g7app1.git/static/js/2.75d01b17.chunk.js",
+    "static/js/2.75d01b17.chunk.js.map": "/coder-chris-git/g7app1.git/static/js/2.75d01b17.chunk.js.map",
     "index.html": "/coder-chris-git/g7app1.git/index.html",
-    "precache-manifest.96b6d3a4b58a0f93fc3a3778676218f3.js": "/coder-chris-git/g7app1.git/precache-manifest.96b6d3a4b58a0f93fc3a3778676218f3.js",
+    "precache-manifest.44c2b3d9bca8e4914a5c0c846a5c4aea.js": "/coder-chris-git/g7app1.git/precache-manifest.44c2b3d9bca8e4914a5c0c846a5c4aea.js",
     "service-worker.js": "/coder-chris-git/g7app1.git/service-worker.js",
-    "static/css/main.30d17a82.chunk.css.map": "/coder-chris-git/g7app1.git/static/css/main.30d17a82.chunk.css.map",
-    "static/js/2.4ce73605.chunk.js.LICENSE.txt": "/coder-chris-git/g7app1.git/static/js/2.4ce73605.chunk.js.LICENSE.txt",
+    "static/css/main.2155f3e2.chunk.css.map": "/coder-chris-git/g7app1.git/static/css/main.2155f3e2.chunk.css.map",
+    "static/js/2.75d01b17.chunk.js.LICENSE.txt": "/coder-chris-git/g7app1.git/static/js/2.75d01b17.chunk.js.LICENSE.txt",
     "static/media/Video1.jpg": "/coder-chris-git/g7app1.git/static/media/Video1.b0aed5a4.jpg",
     "static/media/photosPic.jpeg": "/coder-chris-git/g7app1.git/static/media/photosPic.d0616b2e.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.daa97ab9.js",
-    "static/js/2.4ce73605.chunk.js",
-    "static/css/main.30d17a82.chunk.css",
-    "static/js/main.30c1b04e.chunk.js"
+    "static/js/2.75d01b17.chunk.js",
+    "static/css/main.2155f3e2.chunk.css",
+    "static/js/main.81a28ddb.chunk.js"
   ]
 }
