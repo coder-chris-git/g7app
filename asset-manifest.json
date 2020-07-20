@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/store-app.git/static/css/main.660c1c85.chunk.css",
-    "main.js": "/store-app.git/static/js/main.ee6fbd01.chunk.js",
-    "main.js.map": "/store-app.git/static/js/main.ee6fbd01.chunk.js.map",
-    "runtime-main.js": "/store-app.git/static/js/runtime-main.90391fde.js",
-    "runtime-main.js.map": "/store-app.git/static/js/runtime-main.90391fde.js.map",
-    "static/js/2.44b1f5a1.chunk.js": "/store-app.git/static/js/2.44b1f5a1.chunk.js",
-    "static/js/2.44b1f5a1.chunk.js.map": "/store-app.git/static/js/2.44b1f5a1.chunk.js.map",
-    "index.html": "/store-app.git/index.html",
-    "precache-manifest.993af40ec7edaf935284de6bd13dfb7d.js": "/store-app.git/precache-manifest.993af40ec7edaf935284de6bd13dfb7d.js",
-    "service-worker.js": "/store-app.git/service-worker.js",
-    "static/css/main.660c1c85.chunk.css.map": "/store-app.git/static/css/main.660c1c85.chunk.css.map",
-    "static/js/2.44b1f5a1.chunk.js.LICENSE.txt": "/store-app.git/static/js/2.44b1f5a1.chunk.js.LICENSE.txt",
-    "static/media/Video1.jpg": "/store-app.git/static/media/Video1.b0aed5a4.jpg",
-    "static/media/photosPic.jpeg": "/store-app.git/static/media/photosPic.d0616b2e.jpeg"
+    "main.css": "/store-app/static/css/main.660c1c85.chunk.css",
+    "main.js": "/store-app/static/js/main.ee6fbd01.chunk.js",
+    "main.js.map": "/store-app/static/js/main.ee6fbd01.chunk.js.map",
+    "runtime-main.js": "/store-app/static/js/runtime-main.949edfaf.js",
+    "runtime-main.js.map": "/store-app/static/js/runtime-main.949edfaf.js.map",
+    "static/js/2.c83a69b6.chunk.js": "/store-app/static/js/2.c83a69b6.chunk.js",
+    "static/js/2.c83a69b6.chunk.js.map": "/store-app/static/js/2.c83a69b6.chunk.js.map",
+    "index.html": "/store-app/index.html",
+    "precache-manifest.a03e2f5a22c812c3dbd199c3fa1f908a.js": "/store-app/precache-manifest.a03e2f5a22c812c3dbd199c3fa1f908a.js",
+    "service-worker.js": "/store-app/service-worker.js",
+    "static/css/main.660c1c85.chunk.css.map": "/store-app/static/css/main.660c1c85.chunk.css.map",
+    "static/js/2.c83a69b6.chunk.js.LICENSE.txt": "/store-app/static/js/2.c83a69b6.chunk.js.LICENSE.txt",
+    "static/media/Video1.jpg": "/store-app/static/media/Video1.b0aed5a4.jpg",
+    "static/media/photosPic.jpeg": "/store-app/static/media/photosPic.d0616b2e.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90391fde.js",
-    "static/js/2.44b1f5a1.chunk.js",
+    "static/js/runtime-main.949edfaf.js",
+    "static/js/2.c83a69b6.chunk.js",
     "static/css/main.660c1c85.chunk.css",
     "static/js/main.ee6fbd01.chunk.js"
   ]
