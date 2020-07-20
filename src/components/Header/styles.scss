@@ -1,6 +1,6 @@
 .header{
   height: 7.5rem;
-  box-shadow: 0 2px 4px 0 rgba(0,0,0,.05); 
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.1); 
   background-color: darken($color: #141313, $amount: 0);
 
 
@@ -52,6 +52,12 @@ ul,li {
 
 li{
   list-style-type: none;
+  display:inline-block;
+  margin-right: 1.5rem;
+
+  &:last-child{
+    margin-right:0;
+  }
   a{
     font-size: 1.8rem;
     line-height:1;
