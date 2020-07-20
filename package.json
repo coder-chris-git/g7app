@@ -2,7 +2,7 @@
   "name": "store-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://coder-chris-git.github.io/g7app1.git",
+  "homepage": "https://coder-chris-git.github.io/store-app.git",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
