@@ -53,13 +53,13 @@ this.authListener();
       <div className='App'>
       
       <Switch>
-      <Route exact path='/' render={() => (
+      <Route  exact path='/' render={() => (
       <HomepageLayout currentUser={currentUser}>
         <Homepage />
       </HomepageLayout> 
       )}/>
   
-      <Route path='/registration' render={() => (
+      <Route path='/registration' render={() => currentUser ? <Redirect to='/'/>: (
         <MainLayout currentUser={currentUser}>
           <Registration />
         </MainLayout>

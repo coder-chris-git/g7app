@@ -34,7 +34,7 @@ return (
            <ul>
             <li>
             <Link to='/registration'>
-            Register
+            Book Appointment
             </Link>
         
                 </li>
